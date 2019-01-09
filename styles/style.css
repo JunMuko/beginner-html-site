@@ -19,6 +19,10 @@ body {
   border: 5px solid black;
 }
 
-.quote {
+p.quote {
 	border: 1px solid black;
+}
+
+#corevalues {
+	border: 7px solid black;
 }
